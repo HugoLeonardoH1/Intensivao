@@ -41,40 +41,40 @@
 // }
 
 
-//6
-let num1 = 5
-let num2 = 6
+// //6
+// let num1 = 5
+// let num2 = 6
 
-let sub = num1 + num2
-alert(sub)
+// let sub = num1 + num2
+// alert(sub)
 
-//7
+// //7
 
-let num3 = 5
-let num4 = 6
+// let num3 = 5
+// let num4 = 6
 
-let plus = num1 * num2
-alert(sub)
-//8
+// let plus = num1 * num2
+// alert(sub)
+// //8
 
-let num5 = 5
-let num6 = 6
+// let num5 = 5
+// let num6 = 6
 
-let div = num1 / num2
-alert(sub)
+// let div = num1 / num2
+// alert(sub)
 
-//9
-let isPair = 6;
-if(isPair % 2 === 0  ) {
-  alert("Its pair")
-}else{
-  alert("Isnt Pair")
-}
+// //9
+// let isPair = 6;
+// if(isPair % 2 === 0  ) {
+//   alert("Its pair")
+// }else{
+//   alert("Isnt Pair")
+// }
 
 //10
-let isntPair = 6;
-if(isPair % 2 === 0  ) {
-  alert("Nao é impar ")
+let isntPair = 5;
+if(isntPair % 2 === 0  ) {
+  alert(" é Par ")
 }else{
-  alert("É par")
+  alert("É impar")
 }
